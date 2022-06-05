@@ -1,0 +1,9 @@
+E:\ClockApp\bin\Debug\ClockApp.exe.config
+E:\ClockApp\bin\Debug\ClockApp.exe
+E:\ClockApp\bin\Debug\ClockApp.pdb
+E:\ClockApp\obj\Debug\ClockApp.csprojAssemblyReference.cache
+E:\ClockApp\obj\Debug\ClockApp.Properties.Resources.resources
+E:\ClockApp\obj\Debug\ClockApp.csproj.GenerateResource.cache
+E:\ClockApp\obj\Debug\ClockApp.csproj.CoreCompileInputs.cache
+E:\ClockApp\obj\Debug\ClockApp.exe
+E:\ClockApp\obj\Debug\ClockApp.pdb
